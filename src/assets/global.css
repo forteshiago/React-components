@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #303030;
+    font: 14px sans-serif;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+/* Header CSS */
+h1 {
+  text-align: center;
+  padding: 2%;
+}
+/* Header CSS */
+
+
+/* Container CSS */
+#container {
+  width: 90vw;
+  height: 100vh;
+  /*border: 1px solid tomato;*/
+  display: flex;
+  justify-content: center;
+}
+
+/* Container CSS */
+
+/* Product CSS */
+#base-card {
+  width: 24vw;
+  height: 58vh;
+
+  background: #404040;
+  border: 2px solid #606060;
+  border-radius: 2rem;
+
+  float:left;
+
+  margin: 0.2rem 0.2rem;
+  text-align: center;
+}
+
+#base-card img {
+  width: 6rem;
+  padding: 2px;
+}
+.info-card p{
+  padding: 0 0.4rem;
+  text-align: center;
+  letter-spacing: 0.1rem;
+}
+
+/* Product CSS */

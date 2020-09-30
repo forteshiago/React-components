@@ -1,6 +1,6 @@
 ## Tarefa
 
-- [] Escolha 5 produtos relacionados e pegue uma imagem de cada um. Exemplo: jogos de video-game.
+- [x] Escolha 5 produtos relacionados e pegue uma imagem de cada um. Exemplo: jogos de video-game.
     Linguagens de programação: 
     
         - C : Dennis Ritchie / AT&T Bell Labs, 1969/1973, C18 (junho de 2018)
